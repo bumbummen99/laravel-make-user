@@ -1,5 +1,5 @@
 {
-    "name": "dyrynda/laravel-make-user",
+    "name": "skyraptor/laravel-make-user",
     "description": "An Artisan console command to create users in your Laravel application.",
     "license": "MIT",
     "keywords": ["laravel", "artisan", "console"],
